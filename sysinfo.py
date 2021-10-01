@@ -88,5 +88,6 @@ while True:
  outfile.close()
 
  # Copy the file to the http server's root folder
- discard = os.popen('sudo cp systeminfo.html /var/www/html/').read()
+ discard1 = os.popen('sudo cp systeminfo.html /var/www/html/').read()
+ discard2 = os.popen('sudo cp devops3.png /var/www/html/images/').read()
  time.sleep(60)
