@@ -1,7 +1,7 @@
 # system_info_devops
 Project/code to get some critical system configuration and real time monitoring data
 
-**Code 2: Reference Software (python code)**
+**Code : Reference Software (python code)**
 
 Source code link: https://github.com/remykumar/system_info_devops
 
@@ -27,3 +27,5 @@ git clone https://github.com/remykumar/build_system_info.git
 -	Copies the file to the http server's root folder
 -	Code does continuous looping every 60 seconds to collect system statistics & updates the html
 
+**Output**: 
+![alt text](https://uchicago-module2-assignment.s3.us-east-2.amazonaws.com/Step4_2.png)
